@@ -1,2 +1,2 @@
 # python-code
-codes for my small projects
+Here is some more detailed information about the scripts I have written. For a beginner of python and data analyst, I create these little programs as experiments to have a play with the language, or to solve a problem for myself. I would gladly accept pointers from others to improve the code and make it more efficient, or simplify the code. If you would like to make any comments then please feel free to email me at 610422485@qq.com.
