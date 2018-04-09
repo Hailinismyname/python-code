@@ -3,8 +3,8 @@ Here is some more detailed information about the scripts I have written. For a b
 
 The scripts and comments in the scripts are written and viewed in Jupyter Notebook.
   
-  	  PUBG – my second project and aims to find out the weakness of this game from players’ discussion in steam community to provide suggestions for forthcoming updates. Another website that retrieved info is steamspy.
+  	  PUBG comments analysis – Aiming to find out the weakness of this game from players’ discussion in steam community, to provide suggestions for forthcoming updates. 
   
-  	  Guided Project_ Answering Business Questions using SQL – guided project introduced by Dataquest. Using SQL to investigate data retrieved by chinook database.
+  	  Digital music shop Business analysis –  Using SQL to investigate Digital music shop selling performance, data is provided by chinook database.
 
      
