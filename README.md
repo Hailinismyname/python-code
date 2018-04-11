@@ -7,4 +7,4 @@ The scripts and comments in the scripts are written and viewed in Jupyter Notebo
   
   	  Digital music shop Business analysis –  Using SQL to investigate Digital music shop selling performance, data is provided by chinook database.
 
-     
+  	  iTunes XML database –  reading an iTunes export file in XML and produce database with defined structure    
